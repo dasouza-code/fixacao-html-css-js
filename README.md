@@ -32,4 +32,4 @@ Este é um projeto simples de lista de tarefas interativa, criado para praticar 
 ---
 
 ## 🔗 Acesse o site
-👉 ## 🔗 Acesse o site aqui: [Ver site]() 
+👉 ## 🔗 Acesse o site aqui: [Ver site](https://dasouza-code.github.io/fixacao-html-css-js/) 
