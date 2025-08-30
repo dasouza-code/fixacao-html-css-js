@@ -31,5 +31,5 @@ Este é um projeto simples de lista de tarefas interativa, criado para praticar 
 
 ---
 
-## 🔗 Acesse o site
-👉 ## 🔗 Acesse o site aqui: [Ver site](https://dasouza-code.github.io/fixacao-html-css-js/) 
+## 🔗 Acesse o site 👉 <a href="https://dasouza-code.github.io/fixacao-html-css-js/" target="_blank">Ver site</a>
+
